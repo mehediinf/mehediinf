@@ -16,7 +16,6 @@ Skills: HTML-5 / CSS-3 / XML / C / C++ / Java / SQL Server
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=mehediinf&show_icons=true)  
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=mehediinf)  
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=mehediinf)  
 
