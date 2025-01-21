@@ -1,11 +1,17 @@
-### Hi there 👋, This is a Mehedi Hasan.
-#### I am a Android Developer.
-I am completing undergraduate from Computer Science and Engineering(CSE). I have special skills in Android development and SQL Server database. I have strong technical skills as well.
+### Hi there 👋, This is a Md. Mehedi Hasan.
+#### I am an Android Developer.
+I am completing an undergraduate degree in Computer Science and Engineering(CSE). I have special skills in Android development and Firebase, as well as strong technical skills.
 
-Skills: HTML-5 / CSS-3 / XML / C / C++ / Java / SQL Server
+Skills:
+1. Java and Android Development
+2. PHP (Core)
+3. JavaScript(Core)
+4. MySQL, SQLite, and Firebase
+5. HTML5 and CSS3
+6. Basic Graphic Design
 
 - 🌱 I’m currently learning Android 
-- 👯 I’m looking to collaborate on Github 
+- 👯 I’m looking to collaborate on GitHub 
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/mehediinf)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/md-mehedi-hasan-292952292/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/modern.mehedi.5)  
