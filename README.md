@@ -1,4 +1,4 @@
-### Hi there 👋, This is a Md. Mehedi Hasan.
+### Hi there 👋, This is Md. Mehedi Hasan.
 #### I am an Android Developer.
 I am completing an undergraduate degree in Computer Science and Engineering(CSE). I have special skills in Android development and Firebase, as well as strong technical skills.
 
