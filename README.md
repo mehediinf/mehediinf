@@ -1,6 +1,6 @@
 ### Hi there 👋, This is Md. Mehedi Hasan.
-#### I am an Android Developer.
-I have now completed my B.Sc in CSC. I have a long experience in mobile application development. I have also gained experience in related topics (Firebase, SQLite, and API integration, etc).
+#### I am a Mobile Application Developer.
+I have now completed my B.Sc in CSC. I have a long experience in Mobile Application Development. I have also gained experience in related topics (Firebase, SQLite, and API integration, etc).
 
 Skills:
 1. Java and Android Development
