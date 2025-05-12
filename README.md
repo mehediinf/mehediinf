@@ -1,6 +1,6 @@
 ### Hi there 👋, This is Md. Mehedi Hasan.
 #### I am an Android Developer.
-I am completing an undergraduate degree in Computer Science and Engineering(CSE). I have special skills in Android development and Firebase, as well as strong technical skills.
+I have now completed my B.Sc in CSC. I have a long experience in mobile application development. I have also gained experience in related topics (Firebase, SQLite, and API integration, etc).
 
 Skills:
 1. Java and Android Development
@@ -10,7 +10,7 @@ Skills:
 5. HTML5 and CSS3
 6. Basic Graphic Design
 
-- 🌱 I’m currently learning Android 
+- 🌱 I’m currently learning Mobile Application Development
 - 👯 I’m looking to collaborate on GitHub 
 
 
