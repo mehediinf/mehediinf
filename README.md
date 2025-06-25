@@ -68,13 +68,6 @@ I specialize in creating high-performance, scalable, and user-friendly applicati
 
 ### 🏆 Badges
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif" width="40" />
-  <img src="https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif" width="40" />
-  <img src="https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif" width="35" />
-</div>
-
----
-
-> _"Great apps aren't built in a day. They're crafted through dedication, clean code, and real user feedback."_ – Mehedi Hasan
+🏆 My Developer Badges
+<p align="center"> <img src="https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif" width="45" title="Active Developer" /> <img src="https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif" width="45" title="Pro Developer" /> <img src="https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif" width="40" title="Star Contributor" /> <img src="https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/commitbadge.gif" width="40" title="Frequent Committer" /> <img src="https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/issuebadge.gif" width="40" title="Issue Resolver" /> </p>
 
