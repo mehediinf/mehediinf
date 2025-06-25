@@ -68,6 +68,12 @@ I specialize in creating high-performance, scalable, and user-friendly applicati
 
 ### 🏆 My Developer Badges
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Active%20Developer-%23121011?style=for-the-badge&logo=github&logoColor=white&color=2ea44f" />
+  <img src="https://img.shields.io/badge/Pro%20User-%23121011?style=for-the-badge&logo=github&logoColor=white&color=blue" />
+  <img src="https://img.shields.io/badge/Star%20Contributor-%23121011?style=for-the-badge&logo=github&logoColor=white&color=ffcc00" />
+  <img src="https://img.shields.io/badge/Frequent%20Committer-%23121011?style=for-the-badge&logo=git&logoColor=white&color=orange" />
+  <img src="https://img.shields.io/badge/Issue%20Solver-%23121011?style=for-the-badge&logo=github&logoColor=white&color=red" />
+</p>
 
-<p align="center"> <img src="https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif" width="45" title="Active Developer" /> <img src="https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif" width="45" title="Pro Developer" /> <img src="https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif" width="40" title="Star Contributor" /> <img src="https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/commitbadge.gif" width="40" title="Frequent Committer" /> <img src="https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/issuebadge.gif" width="40" title="Issue Resolver" /> </p>
 
