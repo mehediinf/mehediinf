@@ -28,7 +28,7 @@ I specialize in creating high-performance, scalable, and user-friendly applicati
 | Platform | Skills |
 | -------- | ------ |
 | **Mobile** | Android (Java), iOS (Flutter & Dart) |
-| **Backend** | PHP (Core), Firebase, RESTful APIs |
+| **Backend** | Node.js, Firebase, RESTful APIs |
 | **Database** | Firebase Firestore & Realtime DB, MySQL, SQLite |
 | **Frontend** | XML (Android), HTML5, CSS3, JavaScript (Core) |
 | **Tools** | Android Studio, VS Code, Xcode, Git, Figma |
@@ -46,7 +46,7 @@ I specialize in creating high-performance, scalable, and user-friendly applicati
 ### 📫 Let’s Connect
 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/mehediinf)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/md-mehedi-hasan-292952292/)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/mehedi4556/)  
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white)](https://www.facebook.com/modern.mehedi.5)
 
 ---
@@ -55,7 +55,8 @@ I specialize in creating high-performance, scalable, and user-friendly applicati
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mehediinf&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)  
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=mehediinf&show_icons=true&theme=tokyonight)  
-![GitHub streak](https://streak-stats.demolab.com/?user=mehediinf&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com?user=mehediinf&theme=highcontrast&border_radius=10&fire=DD2727&currStreakNum=F7C52B&sideLabels=F7C52B)
+
 
 ---
 
