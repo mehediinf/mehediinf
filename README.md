@@ -1,26 +1,74 @@
-### Hi there 👋, This is Md. Mehedi Hasan.
-#### I am a Mobile Application Developer.
-I have now completed my B.Sc in CSC. I have a long experience in Mobile Application Development. I have also gained experience in related topics (Firebase, SQLite, and API integration, etc).
+# 👋 Hello, I'm **Md. Mehedi Hasan**
 
-Skills:
-1. Java and Android Development
-2. PHP (Core)
-3. JavaScript(Core)
-4. MySQL, SQLite, and Firebase
-5. HTML5 and CSS3
-6. Basic Graphic Design
+### 📱 Mobile Application Developer (Android & iOS)  
+#### 👨‍💻 Currently working at **Bideshi Bazar e.U.**
 
-- 🌱 I’m currently learning Mobile Application Development
-- 👯 I’m looking to collaborate on GitHub 
+I’m a results-driven mobile app developer with real-world experience in developing Android and iOS apps. Currently, I’m building and maintaining production-level apps using **Android (Java)** and **Flutter (Dart)** at **Bideshi Bazar e.U.**  
+I specialize in creating high-performance, scalable, and user-friendly applications with clean UI and efficient backend integrations.
 
+---
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/mehediinf)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/md-mehedi-hasan-292952292/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/modern.mehedi.5)  
+### 💼 Professional Experience
 
-<a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> 
+**🏢 Company:** Bideshi Bazar e.U.  
+**🧑‍💻 Role:** Mobile Application Developer  
+**📍 Location:** Austria (Remote)  
+**🗓️ Duration:** [Your joining date] – Present  
+**🔧 Responsibilities:**
+- Developed and maintained Android apps using **Java**
+- Built cross-platform iOS apps using **Flutter**
+- Integrated **Firebase**, **SQLite**, and **REST APIs**
+- Designed UI/UX screens with responsiveness and performance in mind
+- Deployed apps to **Play Store** and **App Store**
+- Implemented session management, secure login, and file uploads
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mehediinf)](https://github.com/anuraghazra/github-readme-stats)
+---
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=mehediinf&show_icons=true)  
+### 🚀 Skills & Technologies
 
+| Platform | Skills |
+| -------- | ------ |
+| **Mobile** | Android (Java), iOS (Flutter & Dart) |
+| **Backend** | PHP (Core), Firebase, RESTful APIs |
+| **Database** | Firebase Firestore & Realtime DB, MySQL, SQLite |
+| **Frontend** | XML (Android), HTML5, CSS3, JavaScript (Core) |
+| **Tools** | Android Studio, VS Code, Xcode, Git, Figma |
+| **Other** | Push Notification, Session/Cookie Handling, App Performance Optimization |
 
-![GitHub streak stats](https://streak-stats.demolab.com/?user=mehediinf)  
+---
+
+### 🌱 Currently Exploring
+- Advanced **Flutter** features (State Management, Riverpod)
+- **MVVM architecture**, **Jetpack Compose**, and modern Android tools
+- **CI/CD**, **App Store Optimization (ASO)**, and app analytics tools
+
+---
+
+### 📫 Let’s Connect
+
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/mehediinf)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/md-mehedi-hasan-292952292/)  
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white)](https://www.facebook.com/modern.mehedi.5)
+
+---
+
+### 📊 GitHub Stats
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mehediinf&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=mehediinf&show_icons=true&theme=tokyonight)  
+![GitHub streak](https://streak-stats.demolab.com/?user=mehediinf&theme=tokyonight)
+
+---
+
+### 🏆 Badges
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif" width="40" />
+  <img src="https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif" width="40" />
+  <img src="https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif" width="35" />
+</div>
+
+---
+
+> _"Great apps aren't built in a day. They're crafted through dedication, clean code, and real user feedback."_ – Mehedi Hasan
+
