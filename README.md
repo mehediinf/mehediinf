@@ -12,8 +12,7 @@ I specialize in creating high-performance, scalable, and user-friendly applicati
 
 **🏢 Company:** Bideshi Bazar e.U.  
 **🧑‍💻 Role:** Mobile Application Developer  
-**📍 Location:** Austria (Remote)  
-**🗓️ Duration:** [Your joining date] – Present  
+**📍 Location:** Austria (Remote)   
 **🔧 Responsibilities:**
 - Developed and maintained Android apps using **Java**
 - Built cross-platform iOS apps using **Flutter**
