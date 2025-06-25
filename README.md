@@ -53,9 +53,15 @@ I specialize in creating high-performance, scalable, and user-friendly applicati
 
 ### 📊 GitHub Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mehediinf&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)  
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=mehediinf&show_icons=true&theme=tokyonight)  
-![GitHub Streak](https://streak-stats.demolab.com?user=mehediinf&theme=highcontrast&border_radius=10&fire=DD2727&currStreakNum=F7C52B&sideLabels=F7C52B)
+<!-- GitHub Streak -->
+![GitHub Streak](https://streak-stats.demolab.com?user=mehediinf&theme=tokyonight_duo&hide_border=false&date_format=j%20M%5B%20Y%5D&border_radius=10)
+
+<!-- GitHub Stats -->
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mehediinf&show_icons=true&theme=tokyonight&border_radius=10)
+
+<!-- Most Used Languages -->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mehediinf&layout=compact&theme=tokyonight&border_radius=10)
+
 
 
 ---
