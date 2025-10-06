@@ -13,26 +13,75 @@ I specialize in creating high-performance, scalable, and user-friendly applicati
 **🏢 Company:** Bideshi Bazar e.U.  
 **🧑‍💻 Role:** Mobile Application Developer  
 **📍 Location:** Austria (Remote)  
-**🔧 Responsibilities:**
-- Developed and maintained Android apps using **Java**
-- Built cross-platform iOS apps using **Flutter**
-- Integrated **Firebase**, **SQLite**, and **REST APIs**
-- Designed responsive UI/UX screens
-- Deployed apps to **Google Play Store** & **Apple App Store**
-- Implemented secure login, session management, and file uploads
+**🔧 Key Responsibilities & Achievements:
+
+- Developed and maintained the Bideshibazar app using Android (Java) for Android devices and rebuilt it with Flutter for iOS, ensuring cross-platform functionality; the app is live on Google Play Store and Apple App Store.
+
+- Built BideshibazarSeller entirely with Flutter for both Android and iOS platforms; currently live on Google Play Store and Apple App Store.
+
+- Designed and implemented intuitive, responsive UI/UX using XML layouts, Flutter widgets, and Material Design principles.
+
+- Integrated Firebase Authentication for secure login, OTP verification, and real-time database features.
+
+- Connected apps to backend REST APIs using Retrofit2 for dynamic product, user, and order management.
+
+- Implemented Room Database and SharedPreferences for local storage and offline functionality.
+
+- Built background services using WorkManager and BroadcastReceiver for real-time order tracking and data syncing.
+
+- Integrated Google Sign-In, Apple Sign-In, Google Maps, and Payment Gateway Integration for enhanced user experience and seamless transactions.
+
+- Configured FCM push notifications for order updates, promotions, and alerts.
+
+- Managed app deployment, versioning, and updates on Google Play Store and Apple App Store.
 
 ---
 
 ### 🚀 Skills & Technologies
 
-| Category      | Tools / Technologies |
-|---------------|----------------------|
-| **Mobile**     | Android (Java), iOS (Flutter & Dart) |
-| **Backend**    | Node.js, PHP (Core), Firebase, REST APIs |
-| **Database**   | Firebase Firestore, Realtime DB, MySQL, SQLite |
-| **Frontend**   | XML (Android), HTML5, CSS3, JavaScript (Core) |
-| **Tools**      | Android Studio, VS Code, Xcode, Git, Figma |
-| **Other**      | Push Notification, Session Handling, App Performance Optimization |
+<table>
+  <tr>
+    <th>Category</th>
+    <th>Tools / Technologies</th>
+  </tr>
+  <tr>
+    <td><b>Mobile Development</b></td>
+    <td>Android (Java), iOS (Flutter & Dart), FlutterFlow.</td>
+  </tr>
+  <tr>
+    <td><b>Mobile UI / Frontend</b></td>
+    <td>XML (Android), Flutter Widgets, Responsive Layouts, Pixel-Perfect UI.</td>
+  </tr>
+  <tr>
+    <td><b>Backend</b></td>
+    <td>Firebase, REST APIs.</td>
+  </tr>
+  <tr>
+    <td><b>Database</b></td>
+    <td>Firebase Firestore, Realtime Database, MySQL, SQLite.</td>
+  </tr>
+  <tr>
+    <td><b>Architecture & State Management</b></td>
+    <td>MVP, MVVM, BLoC, Provider, GetX.</td>
+  </tr>
+  <tr>
+    <td><b>Tools & IDEs</b></td>
+    <td>Android Studio, VS Code, Xcode, Git, GitHub, Figma.</td>
+  </tr>
+  <tr>
+    <td><b>Authentication & Integrations</b></td>
+    <td>Google Sign-In, Apple Sign-In (OAuth), Google Maps, Payment Gateway Integration, Push Notifications.</td>
+  </tr>
+  <tr>
+    <td><b>Performance & Features</b></td>
+    <td>Session Handling, App Performance Optimization, Background Services (WorkManager, BroadcastReceiver).</td>
+  </tr>
+  <tr>
+    <td><b>Other Languages</b></td>
+    <td>Node.js, PHP (Core), JavaScript (Core).</td>
+  </tr>
+</table>
+
 
 ---
 
