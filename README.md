@@ -13,7 +13,7 @@ I specialize in creating high-performance, scalable, and user-friendly applicati
 **🏢 Company:** Bideshi Bazar e.U.  
 **🧑‍💻 Role:** Mobile Application Developer  
 **📍 Location:** Austria (Remote)  
-**🔧 Key Responsibilities & Achievements:
+**🔧 Key Responsibilities & Achievements:**
 
 - Developed and maintained the Bideshibazar app using Android (Java) for Android devices and rebuilt it with Flutter for iOS, ensuring cross-platform functionality; the app is live on Google Play Store and Apple App Store.
 
