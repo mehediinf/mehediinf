@@ -10,6 +10,7 @@ I specialize in creating high-performance, scalable, and user-friendly applicati
 
 ### 💼 Professional Experience
 
+**🏢 Company:** MicroMac Techno Valley Ltd.  
 **🏢 Company:** Bideshi Bazar e.U.  
 **🧑‍💻 Role:** Mobile Application Developer  
 **📍 Location:** Austria (Remote)  
