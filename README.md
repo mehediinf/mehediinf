@@ -12,7 +12,7 @@
 
 # 👨‍💻 About Me
 
-Hello! I'm **Md. Mehedi Hasan**, a passionate **Mobile Application Developer** specializing in **Android (Java)** and **Flutter (Dart)**.
+Hello! I'm **Md. Mehedi Hasan**, a passionate **Mobile Application Developer** specializing in **Flutter (Dart)** and **Android (Java and Kotlin)**.
 
 💼 **Full-Time Assistant Programmer**  
 at **MicroMac Techno Valley Ltd.**
