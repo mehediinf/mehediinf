@@ -1,10 +1,10 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f4037,100:99f2c8&height=200&section=header&text=Md.%20Mehedi%20Hasan&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=220&section=header&text=Md.%20Mehedi%20Hasan&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
 
 <h2 align="center">Mobile Application Developer</h2>
 
 <p align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com/?lines=Android+Developer;Flutter+Developer;Mobile+App+Engineer;Clean+Architecture+Enthusiast;Building+Scalable+Apps&center=true&width=500&height=45">
+<img src="https://readme-typing-svg.herokuapp.com/?lines=Android+Developer;Flutter+Developer;Mobile+Application+Engineer;Clean+Architecture+Enthusiast;Building+Scalable+Apps&center=true&width=600&height=50">
 
 </p>
 
@@ -12,7 +12,7 @@
 
 # 👨‍💻 About Me
 
-I’m **Md. Mehedi Hasan**, a passionate **Mobile Application Developer** specializing in **Android (Java)** and **Flutter (Dart)**.
+Hello! I'm **Md. Mehedi Hasan**, a passionate **Mobile Application Developer** specializing in **Android (Java)** and **Flutter (Dart)**.
 
 💼 **Full-Time Assistant Programmer**  
 at **MicroMac Techno Valley Ltd.**
@@ -20,7 +20,7 @@ at **MicroMac Techno Valley Ltd.**
 💼 **Part-Time Mobile App Developer**  
 at **Bideshi Bazar e.U. (Austria)**
 
-I build **production-level mobile applications**, focusing on **performance, scalability, and clean architecture**.
+I develop **high-performance, scalable, and user-friendly mobile applications** with modern architecture and seamless backend integrations.
 
 Currently working on **enterprise banking applications** and **real-world marketplace platforms**.
 
@@ -28,53 +28,89 @@ Currently working on **enterprise banking applications** and **real-world market
 
 # 💼 Professional Experience
 
-## 🏢 MicroMac Techno Valley Ltd.
+## 🏦 MicroMac Techno Valley Ltd.
 **Assistant Programmer (Full-Time)**
 
-Working on **enterprise financial applications** for major banking systems.
+Working on **enterprise mobile applications for banking systems**.
 
-### Projects & Contributions
+### Key Contributions
 
-- Mobile application development for **banking platforms**
-- Worked with projects related to:
+- Developing mobile applications for financial platforms
+- Contributing to banking solutions used by:
+
   - City Bank
   - BRAC Bank
-- Integrated secure **REST APIs**
-- Implemented scalable architecture and optimized performance
-- Collaborated with backend & system teams
+
+- Implementing secure authentication and financial-grade security
+- Integrating REST APIs with backend services
+- Writing scalable and maintainable mobile architecture
+- Optimizing performance for enterprise applications
 
 ---
 
-## 🏢 Bideshi Bazar e.U. (Austria)
+## 🌍 Bideshi Bazar e.U. (Austria)
 **Mobile Application Developer (Part-Time)**
 
 ### Bideshibazar Consumer App
-- Built with **Android (Java)**
-- Rebuilt using **Flutter for cross-platform support**
-- Live on **Google Play Store** and **Apple App Store**
+
+- Built using **Android (Java)**
+- Rebuilt using **Flutter for cross-platform**
+- Available on **Google Play Store** and **Apple App Store**
 
 ### Bideshibazar Seller App
-- Developed fully in **Flutter**
-- Supports **Android & iOS**
-- Includes seller dashboard, product management & order tracking
+
+- Developed entirely with **Flutter**
+- Android & iOS support
+- Seller dashboard, product management & order tracking
+- Published on **Play Store & App Store**
+
+---
+
+# 🚀 Featured Projects
+
+### 🛒 Bideshibazar Consumer App
+
+Marketplace app for international products.
+
+Features:
+
+- User authentication
+- Product browsing
+- Order management
+- Push notifications
+- Payment integration
+
+---
+
+### 🏪 Bideshibazar Seller App
+
+Seller dashboard for managing products and orders.
+
+Features:
+
+- Product upload
+- Order tracking
+- Sales management
+- Push notifications
+- Real-time updates
 
 ---
 
 # 🛠️ Tech Stack
 
-### 📱 Mobile Development
+### Mobile Development
 
 <p>
 <img src="https://skillicons.dev/icons?i=android,flutter,dart,java"/>
 </p>
 
-### 🖥️ Backend & Database
+### Backend & Database
 
 <p>
 <img src="https://skillicons.dev/icons?i=firebase,mysql,nodejs,php"/>
 </p>
 
-### ⚙️ Tools & IDE
+### Tools & IDE
 
 <p>
 <img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio,figma"/>
@@ -82,26 +118,16 @@ Working on **enterprise financial applications** for major banking systems.
 
 ---
 
-# 🚀 Mobile Development Skills
+# ⚙️ Mobile Development Expertise
 
-- Android (Java)
-- Flutter (Dart)
-- Cross Platform App Development
-- XML UI Design
-- Flutter Widgets
-- Material Design UI
-
----
-
-# 🔗 Integrations
-
-- Firebase Authentication
-- Google Sign In
-- Apple Sign In
-- Google Maps
-- REST APIs
+- Android Native Development
+- Flutter Cross-Platform Apps
+- Clean Architecture
+- REST API Integration
+- Firebase Services
 - Payment Gateway Integration
-- FCM Push Notifications
+- Push Notifications (FCM)
+- Google Maps Integration
 
 ---
 
@@ -115,7 +141,7 @@ Working on **enterprise financial applications** for major banking systems.
 
 ---
 
-# 📊 GitHub Stats
+# 📊 GitHub Analytics
 
 <p align="center">
 
@@ -133,13 +159,32 @@ Working on **enterprise financial applications** for major banking systems.
 
 ---
 
+# 🏆 GitHub Achievements
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=mehediinf&theme=tokyonight&row=1&column=6"/>
+
+</p>
+
+---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/mehediinf/mehediinf/output/github-contribution-grid-snake.svg">
+</p>
+
+---
+
 # 🌱 Currently Exploring
 
 - Advanced Flutter Architecture
-- Riverpod
+- Riverpod State Management
 - Jetpack Compose
-- CI/CD for Mobile Apps
+- CI/CD for Mobile Applications
 - App Store Optimization
+- Mobile Analytics
 
 ---
 
@@ -171,12 +216,12 @@ Working on **enterprise financial applications** for major banking systems.
 
 ---
 
-# 💡 Developer Quote
+# 💡 Developer Philosophy
 
-> “Great apps aren't built in a day. They are crafted through clean architecture, performance optimization, and real user feedback.”
+> “Great mobile applications are not just built — they are engineered with performance, scalability, and real user experience in mind.”
 
 — **Md. Mehedi Hasan**
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:99f2c8,100:1f4037&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=120&section=footer"/>
