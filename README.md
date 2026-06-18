@@ -153,7 +153,7 @@ Features:
 
 <br>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehediinf&layout=compact&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehediinf&layout=compact&theme=tokyonight&count_private=true"/>
 
 </p>
 
