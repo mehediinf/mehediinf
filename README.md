@@ -158,19 +158,12 @@ Features:
 # 🐍 Contribution Snake
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/mehediinf/mehediinf/output/github-contribution-grid-snake.svg">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mehediinf/mehediinf/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mehediinf/mehediinf/output/github-contribution-grid-snake.svg"/>
+  <img alt="github-snake" src="https://raw.githubusercontent.com/mehediinf/mehediinf/output/github-contribution-grid-snake.svg"/>
+</picture>
 </p>
-
----
-
-# ⏱️ WakaTime Stats
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=mehediinf&theme=tokyonight&layout=compact"/>
-</p>
-
-> 💡 WakaTime tracks all your coding activity — including private repos — via IDE plugin.  
-> Setup: [wakatime.com](https://wakatime.com) → Install plugin in VS Code / Android Studio → Stats appear here automatically.
 
 ---
 
