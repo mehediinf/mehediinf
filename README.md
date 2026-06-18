@@ -3,9 +3,7 @@
 <h2 align="center">Mobile Application Developer</h2>
 
 <p align="center">
-
 <img src="https://readme-typing-svg.herokuapp.com/?lines=Android+Developer;Flutter+Developer;Mobile+Application+Engineer;Clean+Architecture+Enthusiast;Building+Scalable+Apps&center=true&width=600&height=50">
-
 </p>
 
 ---
@@ -37,10 +35,8 @@ Working on **enterprise mobile applications for banking systems**.
 
 - Developing mobile applications for financial platforms
 - Contributing to banking solutions used by:
-
   - City Bank
   - BRAC Bank
-
 - Implementing secure authentication and financial-grade security
 - Integrating REST APIs with backend services
 - Writing scalable and maintainable mobile architecture
@@ -73,7 +69,6 @@ Working on **enterprise mobile applications for banking systems**.
 Marketplace app for international products.
 
 Features:
-
 - User authentication
 - Product browsing
 - Order management
@@ -87,7 +82,6 @@ Features:
 Seller dashboard for managing products and orders.
 
 Features:
-
 - Product upload
 - Order tracking
 - Sales management
@@ -101,13 +95,13 @@ Features:
 ### Mobile Development
 
 <p>
-<img src="https://skillicons.dev/icons?i=android,flutter,dart,java"/>
+<img src="https://skillicons.dev/icons?i=android,flutter,dart,java,kotlin"/>
 </p>
 
 ### Backend & Database
 
 <p>
-<img src="https://skillicons.dev/icons?i=firebase,mysql,nodejs,php"/>
+<img src="https://skillicons.dev/icons?i=firebase,mysql,nodejs,php,express"/>
 </p>
 
 ### Tools & IDE
@@ -144,17 +138,11 @@ Features:
 # 📊 GitHub Analytics
 
 <p align="center">
-
 <img src="https://github-readme-stats.vercel.app/api?username=mehediinf&show_icons=true&theme=tokyonight"/>
-
-<br>
-
+<br><br>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=mehediinf&theme=tokyonight"/>
-
-<br>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehediinf&layout=compact&theme=tokyonight&count_private=true"/>
-
+<br><br>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehediinf&layout=compact&theme=tokyonight&langs_count=10&hide=html,css"/>
 </p>
 
 ---
@@ -162,9 +150,7 @@ Features:
 # 🏆 GitHub Achievements
 
 <p align="center">
-
 <img src="https://github-profile-trophy.vercel.app/?username=mehediinf&theme=tokyonight&row=1&column=6"/>
-
 </p>
 
 ---
@@ -174,6 +160,17 @@ Features:
 <p align="center">
 <img src="https://raw.githubusercontent.com/mehediinf/mehediinf/output/github-contribution-grid-snake.svg">
 </p>
+
+---
+
+# ⏱️ WakaTime Stats
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=mehediinf&theme=tokyonight&layout=compact"/>
+</p>
+
+> 💡 WakaTime tracks all your coding activity — including private repos — via IDE plugin.  
+> Setup: [wakatime.com](https://wakatime.com) → Install plugin in VS Code / Android Studio → Stats appear here automatically.
 
 ---
 
@@ -191,34 +188,28 @@ Features:
 # 📫 Connect With Me
 
 <p>
-
 <a href="https://github.com/mehediinf">
 <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github"/>
 </a>
-
 <a href="https://www.linkedin.com/in/mehedi4556">
 <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
 </a>
-
 <a href="https://www.facebook.com/mehedi.cse.inf">
 <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook"/>
 </a>
-
 </p>
 
 ---
 
 <p align="center">
-
 <img src="https://komarev.com/ghpvc/?username=mehediinf&label=Profile%20Views&color=0e75b6&style=flat"/>
-
 </p>
 
 ---
 
 # 💡 Developer Philosophy
 
-> “Great mobile applications are not just built — they are engineered with performance, scalability, and real user experience in mind.”
+> "Great mobile applications are not just built — they are engineered with performance, scalability, and real user experience in mind."
 
 — **Md. Mehedi Hasan**
 
